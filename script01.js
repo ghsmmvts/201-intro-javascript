@@ -38,3 +38,8 @@ else{
     // Template String
     alert(`Parace que a nota do aluno ${aluno} na matéria ${matéria} foi insuficiente`);
 }
+
+// LAÇO
+// \\CONTADOR
+// \\CONDIÇÃO
+// \\PASSO
